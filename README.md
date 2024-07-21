@@ -1,4 +1,4 @@
-# Advanced Data Structures in C
+# WorkPlace Wingman
 
 ## Table of Contents
 
